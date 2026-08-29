@@ -2,15 +2,6 @@
 
 Repository ini berisi pengerjaan praktikum Deep Learning dari pertemuan 1 sampai pertemuan 8. Setiap pertemuan disusun sebagai latihan terpisah, sedangkan pertemuan 8 menjadi mini project akhir yang menggabungkan proses pemuatan data, preprocessing, pelatihan model, evaluasi, notebook eksplorasi, dan laporan.
 
-## Identitas
-
-| Keterangan | Isi |
-|---|---|
-| Nama | Muhammad Zaky Farhan |
-| NIM | 105841110523 |
-| Kelas | 6AI-B |
-| Mata Kuliah | Praktikum Deep Learning |
-
 ## Ringkasan Materi
 
 | Pertemuan | Fokus Pengerjaan | Berkas Utama |
