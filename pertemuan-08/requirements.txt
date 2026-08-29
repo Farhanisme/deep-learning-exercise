@@ -1,0 +1,7 @@
+numpy>=1.26
+scikit-learn>=1.4
+matplotlib>=3.8
+pandas>=2.2
+pytest>=8.0
+# digunakan untuk Fashion-MNIST, MLP, dan CNN Keras:
+tensorflow>=2.16

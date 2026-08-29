@@ -1,0 +1,18 @@
+{
+  "notebook": "../notebooks/eksplorasi.ipynb",
+  "source_truth": [
+    "../src/proyek.py",
+    "../notebooks/eksplorasi.ipynb"
+  ],
+  "assets": {
+    "workflow": "assets/bab-iii/workflow-eksperimen.png",
+    "distribusi_kelas": "assets/bab-iv/distribusi-kelas.png",
+    "contoh_kelas": "assets/bab-iv/contoh-citra-per-kelas.png",
+    "hist_pixel": "assets/bab-iv/distribusi-intensitas-pixel.png",
+    "perbandingan_metrik": "assets/bab-iv/perbandingan-metrik.png",
+    "loss": "assets/bab-iv/kurva-loss.png",
+    "confusion_matrix": "assets/bab-iv/confusion-matrix-cnn.png",
+    "error_examples": "assets/bab-iv/contoh-prediksi-salah.png",
+    "sample_predictions": "assets/bab-iv/contoh-prediksi-benar-salah.png"
+  }
+}

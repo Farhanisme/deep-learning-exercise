@@ -1,0 +1,5 @@
+numpy>=1.26
+matplotlib>=3.8
+pytest>=8.0
+# opsional untuk LSTM Keras (atau pakai Google Colab):
+# tensorflow>=2.16
